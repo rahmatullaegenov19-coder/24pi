@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PI 24 - Современная IT Группа</title>
+  <title>PI 24 -  IT Группа</title>
   <style>
     body {
       margin: 0;
@@ -92,7 +92,7 @@
 <body>
   <header>
     <h1>PI 24</h1>
-    <p>Современная IT Группа</p>
+    <p>С IT Группа</p>
   </header>
 
   <section id="about">
